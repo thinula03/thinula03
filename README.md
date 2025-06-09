@@ -118,7 +118,7 @@ Advanced web app for detecting SQLi, XSS, CSRF, IDOR, RFI attacks with:
 ## 📫 Let's Connect
 
 - 🌐 Official Website: [www.iinfinityai.com](https://www.iinfinityai.com)  
-- 📩 Email: contact@iinfinityai.com  
+- 📩 Email: thinula.d@iinfinityai.com  
 - 🐙 GitHub: [github.com/thinula03](https://github.com/thinula03)  
 - 🔗 LinkedIn: [linkedin.com/in/thinula-damsith](https://www.linkedin.com/in/thinula-damsith)
 
