@@ -1,15 +1,15 @@
 # 👋 Hello, I'm Thinula Damsith
   
-🏢 Founder & Managing Director of [Infinity AI (Pvt) Ltd](https://www.iinfinityai.com)  
+🏢 Founder & CEO of [Infinity AI (Pvt) Ltd](https://www.iinfinityai.com)  
 🌐 Global Technology Leader | AI Architect | Full Stack Strategist | Research Director  
-🎓 BSc (Hons) in Data Science – University of Plymouth
+🎓 BSc (Hons) in Data Science – University of Plymouth (Second Class Honours - Upper Division)
 📍 Based in Sri Lanka | Leading Remote Innovation Worldwide
 
 ---
 
 ## 🧠 About Me
 
-I'm **Thinula Damsith**, a globally-minded technologist, entrepreneur, and visionary building the future of intelligent systems. As the **Founder & Chairman of Infinity AI**, I lead innovation at the intersection of artificial intelligence, secure architecture, and enterprise-grade software engineering.
+I'm **Thinula Damsith**, a globally-minded technologist, entrepreneur, and visionary building the future of intelligent systems. As the **Founder & CEO of Infinity AI**, I lead innovation at the intersection of artificial intelligence, secure architecture, and enterprise-grade software engineering.
 
 My career is centered on creating meaningful, scalable, and impactful digital solutions—from healthcare AI and cybersecurity ecosystems to infrastructure for education, logistics, and remote workforce management. I combine **technical leadership** with **strategic foresight**, enabling teams to build systems that deliver lasting global impact.
 
@@ -22,29 +22,21 @@ With a firm belief that **technology must serve humanity**, I architect and lead
 As the founder of [Infinity AI (Pvt) Ltd](https://www.iinfinityai.com), I oversee a growing portfolio of disruptive tech platforms, mentor global intern teams, and set the long-term roadmap for:
 - 💡 Technical Architecture & Secure Full Stack Development  
 - 🧠 AI Deployment, CV/NLP Solutions & Research Methodologies  
-- 📊 Intern & Team Training (Globally Distributed, Role-Based)  
 - 📈 Corporate Strategy, Innovation Management & Legal Governance  
 - 🌐 International Research Compliance & Product Scalability
 
 ---
 
-## 🧩 Key Projects & Platforms
+## Key Projects & Platforms
 
-### 🧬 **GammaMed AI**  
+### **GammaMed AI**  
 An AI-powered platform revolutionizing disease detection and diagnostics through medical bioinformatics, NLP, and real-time analysis.  
 **Compliance:** WHO, ICH-GCP, ISO 14155, CIOMS
 
-### ❤️ **DonorsBridge**  
+### **DonorsBridge**  
 A multi-role global donation platform (organ, blood, and hair) powered by AI matching, real-time chat, identity verification, and KYC compliance.
 
-### 🛡️ **InfinitySecure OS**  
-A 4-tier data encryption ecosystem offering:
-- `InfinitySecure Lite` – Token masking  
-- `InfinitySecure Plus` – AES-256 level security  
-- `InfinitySecure Pro` – Military-grade protection  
-- `InfinitySecure God Mode` – Metaphysical, post-quantum encryption  
-
-### 🧠 **InfinityOS**  
+### **InfinityOS**  
 An intelligent internal operating system designed for managing global remote teams. Includes modules such as:
 - `PersonaOS` – HR & Role Identity Management  
 - `FeelOS` – Behavioral & Sentiment Insights  
@@ -52,24 +44,15 @@ An intelligent internal operating system designed for managing global remote tea
 - `OpsOS` – Workflow & Operations Oversight  
 - `GuardOS` – Security, Compliance & Monitoring
 
-### 🔧 **Smart Garage & Inventory Management System**  
-Built with YOLOv8, OpenCV, and Flask for real-time object detection, shipment tracking, quotation handling, and garage workflow automation.
-
-### 🔍 **Website Vulnerability Scanner**  
-Advanced web app for detecting SQLi, XSS, CSRF, IDOR, RFI attacks with:
-- Real-time alerting  
-- PDF report generation  
-- Admin audit dashboard
-
 ---
 
-## 🛠️ Tech Toolbox
+## Tech Toolbox
 
 ### 💻 Languages & Frameworks
 - `Python`, `JavaScript`, `Java`, `HTML5`, `CSS3`, `SQL`, `Bash`, `Flutter`, `Swift`
 
 ### ⚙️ Backend & API Architecture
-- `Flask`, `Node.js`, `Express.js`, `JWT`, `OAuth2`, `2FA`, `RESTful APIs`, `WebSockets`, `Socket.IO`
+- `Flask`, `Node.js`, `Express.js`, `JWT`, `OAuth2`, `2FA`, `RESTful APIs`, `WebSockets`, `Socket.IO`, `GraphQL`
 
 ### 🎨 Frontend & UI/UX
 - `React.js`, `Tailwind CSS`, `Bootstrap`, `Figma`, `Vanilla JS`
@@ -78,13 +61,13 @@ Advanced web app for detecting SQLi, XSS, CSRF, IDOR, RFI attacks with:
 - `MySQL`, `MongoDB`, `SQLite`, `Firebase`, `SQLAlchemy ORM`
 
 ### 🤖 Artificial Intelligence & CV
-- `OpenCV`, `YOLOv8`, `TensorFlow`, `Keras`, `Roboflow`, `Scikit-learn`, `NLP + OpenAI API`
+- `OpenCV`, `YOLOv8`, `TensorFlow`, `Keras`, `Roboflow`, `Scikit-learn`, `NLP`
 
 ### 🔐 Cybersecurity & Encryption
 - `AES-256`, `PBKDF2`, `Salted Hashing`, `Tokenization`, `Post-Quantum Concepts`, `InfinitySecure OS`
 
 ### 🚀 DevOps & Deployment
-- `Git/GitHub`, `Vercel`, `Heroku`, `cPanel`, `Cloudflare SSL`, `Linux CLI`, `Docker (Basic)`
+- `Git/GitHub`, `Vercel`, `Heroku`, `cPanel`, `Cloudflare`, `Linux CLI`, `Docker`
 
 ### 📡 Integration & Real-Time Services
 - `Firebase Realtime DB`, `Twilio`, `Google Maps API`, `OpenAI`, `Cloudflare`, `Admin Dashboards`
@@ -93,7 +76,7 @@ Advanced web app for detecting SQLi, XSS, CSRF, IDOR, RFI attacks with:
 
 ## 👥 Leadership & Mentorship
 
-- 🌍 Managed a 50+ member global intern and engineering team  
+- 🌍 Managed a 50+ member global engineering team  
 - 🧩 Developed structured task boards, technical roadmaps, and sprint workflows  
 - 🎓 Created beginner-to-expert pipelines for interns in:
   - Full Stack (Flask, MERN)  
@@ -125,4 +108,4 @@ Advanced web app for detecting SQLi, XSS, CSRF, IDOR, RFI attacks with:
 ---
 
 > **“Dream beyond boundaries. Build beyond imagination. Lead beyond expectation.”**  
-> *– Thinula Damsith, Founder & Chairman | Infinity AI*
+> *– Thinula Damsith, Founder & CEO | Infinity AI*
