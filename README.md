@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Thinula Damsith
   
-🏢 Founder & CEO of [Infinity AI (Pvt) Ltd](https://www.iinfinityai.com)  
+🏢 Governing Director of [Infinity AI (Pvt) Ltd](https://www.iinfinityai.com)  
 🌐 Global Technology Leader | AI Architect | Full Stack Strategist | Research Director  
 🎓 BSc (Hons) in Data Science – University of Plymouth (Second Class Honours - Upper Division)
 📍 Based in Sri Lanka | Leading Remote Innovation Worldwide
@@ -9,7 +9,7 @@
 
 ## 🧠 About Me
 
-I'm **Thinula Damsith**, a globally-minded technologist, entrepreneur, and visionary building the future of intelligent systems. As the **Founder & CEO of Infinity AI**, I lead innovation at the intersection of artificial intelligence, secure architecture, and enterprise-grade software engineering.
+I'm **Thinula Damsith**, a globally-minded technologist, entrepreneur, and visionary building the future of intelligent systems. As the **Founder & Governing Director of Infinity AI**, I lead innovation at the intersection of artificial intelligence, secure architecture, and enterprise-grade software engineering.
 
 My career is centered on creating meaningful, scalable, and impactful digital solutions—from healthcare AI and cybersecurity ecosystems to infrastructure for education, logistics, and remote workforce management. I combine **technical leadership** with **strategic foresight**, enabling teams to build systems that deliver lasting global impact.
 
@@ -100,7 +100,8 @@ An intelligent internal operating system designed for managing global remote tea
 
 ## 📫 Let's Connect
 
-- 🌐 Official Website: [www.iinfinityai.com](https://www.iinfinityai.com)  
+- 🌐 Personal Portfolio: [www.thinuladamsith.com](https://www.thinuladamsith.com)
+- 🌐 Organization Official Website: [www.iinfinityai.com](https://www.iinfinityai.com) 
 - 📩 Email: thinula.d@iinfinityai.com  
 - 🐙 GitHub: [github.com/thinula03](https://github.com/thinula03)  
 - 🔗 LinkedIn: [linkedin.com/in/thinula-damsith](https://www.linkedin.com/in/thinula-damsith)
@@ -108,4 +109,4 @@ An intelligent internal operating system designed for managing global remote tea
 ---
 
 > **“Dream beyond boundaries. Build beyond imagination. Lead beyond expectation.”**  
-> *– Thinula Damsith, Founder & CEO | Infinity AI*
+> *– Thinula Damsith, Founder & Governing Director | Infinity AI*
