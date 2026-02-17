@@ -1,13 +1,13 @@
-# 👋 Hello, I'm Thinula Damsith
+#  Hello, I'm Thinula Damsith
   
-🏢 Governing Director of [Infinity AI (Pvt) Ltd](https://www.iinfinityai.com)  
-🌐 Global Technology Leader | AI Architect | Full Stack Strategist | Research Director  
-🎓 BSc (Hons) in Data Science – University of Plymouth (Second Class Honours - Upper Division)
-📍 Based in Sri Lanka | Leading Remote Innovation Worldwide
+ Governing Director of [Infinity AI (Pvt) Ltd](https://www.iinfinityai.com)  
+ Global Technology Leader | AI Architect | Full Stack Strategist | Research Director  
+ BSc (Hons) in Data Science – University of Plymouth (Second Class Honours - Upper Division)
+ Based in Sri Lanka | Leading Remote Innovation Worldwide
 
 ---
 
-## 🧠 About Me
+##  About Me
 
 I'm **Thinula Damsith**, a globally-minded technologist, entrepreneur, and visionary building the future of intelligent systems. As the **Founder & Governing Director of Infinity AI**, I lead innovation at the intersection of artificial intelligence, secure architecture, and enterprise-grade software engineering.
 
@@ -17,13 +17,13 @@ With a firm belief that **technology must serve humanity**, I architect and lead
 
 ---
 
-## 🏢 Leadership at Infinity AI
+##  Leadership at Infinity AI
 
 As the founder of [Infinity AI (Pvt) Ltd](https://www.iinfinityai.com), I oversee a growing portfolio of disruptive tech platforms, mentor global intern teams, and set the long-term roadmap for:
-- 💡 Technical Architecture & Secure Full Stack Development  
-- 🧠 AI Deployment, CV/NLP Solutions & Research Methodologies  
-- 📈 Corporate Strategy, Innovation Management & Legal Governance  
-- 🌐 International Research Compliance & Product Scalability
+-  Technical Architecture & Secure Full Stack Development  
+-  AI Deployment, CV/NLP Solutions & Research Methodologies  
+-  Corporate Strategy, Innovation Management & Legal Governance  
+-  International Research Compliance & Product Scalability
 
 ---
 
@@ -48,63 +48,63 @@ An intelligent internal operating system designed for managing global remote tea
 
 ## Tech Toolbox
 
-### 💻 Languages & Frameworks
-- `Python`, `JavaScript`, `Java`, `HTML5`, `CSS3`, `SQL`, `Bash`, `Flutter`, `Swift`
+###  Languages & Frameworks
+- `Python`, `JavaScript`, `Java`, `HTML5`, `CSS3`, `SQL`, `Bash`, `Flutter`, `Swift`, `React`, `Vue`, `Nuxt`, `Next`, `.NET`
 
-### ⚙️ Backend & API Architecture
-- `Flask`, `Node.js`, `Express.js`, `JWT`, `OAuth2`, `2FA`, `RESTful APIs`, `WebSockets`, `Socket.IO`, `GraphQL`
+###  Backend & API Architecture
+- `Flask`, `Django`, `Laravel`, `Node.js`, `Express.js`, `JWT`, `OAuth2`, `2FA`, `RESTful APIs`, `WebSockets`, `Socket.IO`, `GraphQL`
 
-### 🎨 Frontend & UI/UX
+###  Frontend & UI/UX
 - `React.js`, `Tailwind CSS`, `Bootstrap`, `Figma`, `Vanilla JS`
 
-### 🗄️ Databases & Storage
-- `MySQL`, `MongoDB`, `SQLite`, `Firebase`, `SQLAlchemy ORM`
+###  Databases & Storage
+- `MySQL`, `MongoDB`, `SQLite`, `Firebase`, `SQLAlchemy ORM`, `Azure DB`, `Supabase`
 
-### 🤖 Artificial Intelligence & CV
+###  Artificial Intelligence & CV
 - `OpenCV`, `YOLOv8`, `TensorFlow`, `Keras`, `Roboflow`, `Scikit-learn`, `NLP`
 
-### 🔐 Cybersecurity & Encryption
+###  Cybersecurity & Encryption
 - `AES-256`, `PBKDF2`, `Salted Hashing`, `Tokenization`, `Post-Quantum Concepts`, `InfinitySecure OS`
 
-### 🚀 DevOps & Deployment
-- `Git/GitHub`, `Vercel`, `Heroku`, `cPanel`, `Cloudflare`, `Linux CLI`, `Docker`
+###  DevOps & Deployment
+- `Git/GitHub`, `Vercel`, `Heroku`, `cPanel`, `Cloudflare`, `Linux CLI`, `Docker`, `Azure`
 
-### 📡 Integration & Real-Time Services
+###  Integration & Real-Time Services
 - `Firebase Realtime DB`, `Twilio`, `Google Maps API`, `OpenAI`, `Cloudflare`, `Admin Dashboards`
 
 ---
 
-## 👥 Leadership & Mentorship
+##  Leadership & Mentorship
 
-- 🌍 Managed a 50+ member global engineering team  
-- 🧩 Developed structured task boards, technical roadmaps, and sprint workflows  
-- 🎓 Created beginner-to-expert pipelines for interns in:
+-  Managed a 50+ member global engineering team  
+-  Developed structured task boards, technical roadmaps, and sprint workflows  
+-  Created beginner-to-expert pipelines for interns in:
   - Full Stack (Flask, MERN)  
   - AI/ML & Computer Vision  
   - Cybersecurity  
   - UI/UX & Product Design  
-- 📋 Led ISO-compliant research operations and documentation for medical AI platforms  
-- 🧠 Built Infinity AI’s productivity suite using internal EMS & InfinityOS modules
+-  Led ISO-compliant research operations and documentation for medical AI platforms  
+-  Built Infinity AI’s productivity suite using internal EMS & InfinityOS modules
 
 ---
 
-## 🏆 Highlights & Achievements
+##  Highlights & Achievements
 
-- 🚀 Delivered 30+ full-scale, production-ready platforms  
-- 🔐 Designed one of the most secure AI encryption frameworks (InfinitySecure OS)  
-- 🧠 Spearheaded AI solutions for medical diagnostics, education, and logistics  
-- 🌐 Established Infinity AI as a globally recognized innovation-driven tech firm  
-- 🎓 Successfully built a business while completing my Data Science degree
+-  Delivered 30+ full-scale, production-ready platforms  
+-  Designed one of the most secure AI encryption frameworks (InfinitySecure OS)  
+-  Spearheaded AI solutions for medical diagnostics, education, and logistics  
+-  Established Infinity AI as a globally recognized innovation-driven tech firm  
+-  Successfully built a business while completing my Data Science degree
 
 ---
 
-## 📫 Let's Connect
+##  Let's Connect
 
-- 🌐 Personal Portfolio: [www.thinuladamsith.com](https://www.thinuladamsith.com)
-- 🌐 Organization Official Website: [www.iinfinityai.com](https://www.iinfinityai.com) 
-- 📩 Email: thinula.d@iinfinityai.com  
-- 🐙 GitHub: [github.com/thinula03](https://github.com/thinula03)  
-- 🔗 LinkedIn: [linkedin.com/in/thinula-damsith](https://www.linkedin.com/in/thinula-damsith)
+-  Personal Portfolio: [www.thinuladamsith.com](https://www.thinuladamsith.com)
+-  Organization Official Website: [www.iinfinityai.com](https://www.iinfinityai.com) 
+-  Email: thinula.d@iinfinityai.com  
+-  GitHub: [github.com/thinula03](https://github.com/thinula03)  
+-  LinkedIn: [linkedin.com/in/thinula-damsith](https://www.linkedin.com/in/thinula-damsith)
 
 ---
 
