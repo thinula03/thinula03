@@ -190,10 +190,16 @@ Key directions:
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=thinula03&show_icons=true&include_all_commits=true&rank_icon=github&hide_border=true&title_color=0ea5e9&icon_color=22d3ee&text_color=cbd5e1&bg_color=0b1020" alt="GitHub stats"/>
+
 <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=thinula03&hide_border=true&ring=22d3ee&fire=0ea5e9&currStreakLabel=22d3ee&background=0b1020&stroke=0b1020&sideLabels=cbd5e1&dates=94a3b8&sideNums=e2e8f0&currStreakNum=e2e8f0" alt="GitHub streak"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thinula03&layout=compact&hide_border=true&title_color=0ea5e9&text_color=cbd5e1&bg_color=0b1020" alt="Top languages"/>
+</div>
+
+## GitHub Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=thinula03)](https://github.com/thinula03/github-profile-trophy)
 
 </div>
 
