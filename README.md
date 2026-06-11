@@ -5,8 +5,8 @@
 ### Architecting intelligent, secure, and scalable digital systems for global impact.
 
 <p>
-  <a href="https://www.thinuladamsith.com"><img src="https://img.shields.io/badge/Portfolio-thinuladamsith.com-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>
-  <a href="https://www.iinfinityai.com"><img src="https://img.shields.io/badge/Infinity%20AI-Official%20Website-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Infinity AI"/></a>
+  <a href="https://thinuladamsith.com"><img src="https://img.shields.io/badge/Portfolio-thinuladamsith.com-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://iinfinityai.com"><img src="https://img.shields.io/badge/Infinity%20AI-Official%20Website-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Infinity AI"/></a>
   <a href="mailto:thinula.d@iinfinityai.com"><img src="https://img.shields.io/badge/Email-Connect-1D4ED8?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
@@ -222,8 +222,8 @@ Key directions:
 ## Connect
 
 <p align="center">
-  <a href="https://www.thinuladamsith.com">Portfolio</a> •
-  <a href="https://www.iinfinityai.com">Infinity AI</a> •
+  <a href="https://thinuladamsith.com">Portfolio</a> •
+  <a href="https://iinfinityai.com">Infinity AI</a> •
   <a href="https://github.com/thinula03">GitHub</a> •
   <a href="https://www.linkedin.com/in/thinula-damsith">LinkedIn</a> •
   <a href="mailto:thinula.d@iinfinityai.com">Email</a>
