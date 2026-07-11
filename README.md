@@ -42,7 +42,7 @@
 </tr>
 <tr>
 <td><strong>Current Role</strong></td>
-<td>Founder & Governing Director, <a href="https://www.iinfinityai.com">Infinity AI (Pvt) Ltd</a></td>
+<td>Founder & Chairperson, <a href="https://www.iinfinityai.com">Infinity AI (Pvt) Ltd</a></td>
 </tr>
 <tr>
 <td><strong>Academic Background</strong></td>
